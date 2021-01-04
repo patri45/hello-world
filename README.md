@@ -5,6 +5,7 @@ say hi to the world, repository
 What should I do ? Fuck. I do not know.   
 Should be alright.  
 我不知道怎么回事，再试试看  
-开始测试minor branch
+开始测试minor branch  
 test test  
-我不知道怎么回事，但是很奇怪，非常奇怪。
+我不知道怎么回事，但是很奇怪，非常奇怪。   
+it is a test for HEAD
