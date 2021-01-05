@@ -8,4 +8,5 @@ Should be alright.
 开始测试minor branch  
 test test  
 我不知道怎么回事，但是很奇怪，非常奇怪。   
-it is a test for HEAD
+it is a test for HEAD  
+xxxxx这是一个test for GG
